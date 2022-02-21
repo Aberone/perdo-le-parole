@@ -9,19 +9,19 @@
 
 Скриншоты с примерами работы программы:
 
-Главное меню:
+Главное меню:  
 ![image](https://user-images.githubusercontent.com/42893256/154992323-97e01d19-3c00-4276-8959-ab7104dcdc18.png)
 
-Меню "Добавить пароль в список":
+Меню "Добавить пароль в список":  
 ![image](https://user-images.githubusercontent.com/42893256/154992579-1ef05527-aff1-44a4-8a85-838bbd077428.png)
 
-Меню "Настройки":
+Меню "Настройки":  
 ![image](https://user-images.githubusercontent.com/42893256/154992965-a885d8ed-461c-4f6e-a07f-56c8b788ac03.png)
 
-Меню "Получить пароль из списка", секретный ключ введён правильно:
+Меню "Получить пароль из списка", секретный ключ введён правильно:  
 ![image](https://user-images.githubusercontent.com/42893256/154993125-f19b4e8a-3837-4d63-8c29-2fa6024efe50.png)
 ![image](https://user-images.githubusercontent.com/42893256/154993167-b723192f-09ea-498d-9207-b3e909cb4417.png)
 
-Меню "Получить пароль из списка", секретный ключ введён неправильно:
+Меню "Получить пароль из списка", секретный ключ введён неправильно:  
 ![image](https://user-images.githubusercontent.com/42893256/154993252-8bcc649c-1b79-41cd-9e54-0e62332458b3.png)
 ![image](https://user-images.githubusercontent.com/42893256/154993288-23cc449c-2b7e-40dc-bfa3-6241dcd974f7.png)
